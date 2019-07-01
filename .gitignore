@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.gtm/
+node_modules
+# IntellijIdea files
+*.iml
+.idea
+out
